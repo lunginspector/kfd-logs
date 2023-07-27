@@ -1,0 +1,3 @@
+Reboot Device
+vNodeBypass (Accesses Kernel and can Overwrite/Replace CodeSign Files, just not accessable)
+Theoretically has no file limit, and escaping sandbox is possible.
